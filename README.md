@@ -89,4 +89,4 @@ del fronend
 	-actuliar 
 	-mostrar
 
-
+En esta version use Axios para las peticiones, lo cual me gusto mas que fetch

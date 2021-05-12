@@ -4,6 +4,9 @@ Para este proyecto se uso:
 	-ReactJs
 	-pip
 
+Previo
+![alt preview](https://github.com/Eduardishion/todoAppEnDjangoReactJsSqLitePip/blob/master/preview.png)
+
 1.-Recordar que debemos tener instaldo python
 
 	python --version
@@ -40,7 +43,7 @@ Para activar el entorno virtual del proyecto
 
 7.-Esto es opcional,Para solucionar en el servidor 
 
-Solicitud desde otro origen bloqueada: la política de mismo origen impide leer el recurso remoto en http://127.0.0.1:8000/api/tareas/ (razón: falta la cabecera CORS 'Access-Control-Allow-Origin').
+Solicitud desde otro origen bloqueada: la polÃ­tica de mismo origen impide leer el recurso remoto en http://127.0.0.1:8000/api/tareas/ (razÃ³n: falta la cabecera CORS 'Access-Control-Allow-Origin').
 
 Podriamos consultar esto:
 

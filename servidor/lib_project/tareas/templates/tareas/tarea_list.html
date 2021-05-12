@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Tareas</title>
+</head>
+<body>
+    <h1>Tareas CRUD desde Django</h1>
+
+    {% for tarea in object_list %}
+
+      <ul>
+          <li>Titulo: {{ tarea.tituo }}       </li>
+          <li>Descripcion: {{ tarea.descrip }}</li>
+      </ul>
+
+    {% endfor %}
+
+</body>
+</html>

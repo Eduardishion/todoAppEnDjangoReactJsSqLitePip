@@ -5,6 +5,14 @@
 	-ReactJs
 	-pip
 
+En este ejemplo me base completamente en un autor y en tres de sus grandes libros los cuales son muy claros de como usar el framework de django el cual estan muy sencilos sus ejemplos, ya que te llevan de la mano desde como instalar el entorno de desarrllo, el paquete djando y reframework, asi como la configuracion tanto endpoints, configuracion de el adminisitrador de django, asi como toda la configuracion necearia para crear tu api y son los siguientes:
+
+- Django for Beginners William Vincent
+- Django for Professionals William Vincent
+- Django for APIs William Vincent
+
+
+
 Previo
 ![alt preview](https://github.com/Eduardishion/todoAppEnDjangoReactJsSqLitePip/blob/master/preview.png)
 
